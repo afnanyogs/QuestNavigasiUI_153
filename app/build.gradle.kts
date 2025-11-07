@@ -1,7 +1,3 @@
-val Any.compose: kotlin.Any
-
-val org.gradle.accessors.dm.LibrariesForLibs.AndroidxLibraryAccessors.navigation: kotlin.Any
-
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
