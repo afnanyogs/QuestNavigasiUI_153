@@ -48,7 +48,7 @@ fun FormIsian(
             modifier = Modifier.padding(isiRuang),
             verticalArrangement = Arrangement.Top,
             horizontalAlignment = Alignment.CenterHorizontally ) {
-           source(id = R.string.submit))
+
             }
         }
 
